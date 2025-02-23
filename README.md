@@ -1,7 +1,7 @@
 [Game Demo Video](https://youtu.be/hDnoJq8jv1k)\
 Author: Yunyu Yang
 ## The goals of the game 
-The goal of the game is to control the bee as it flies across the spiders and their lair to achieve a high score. The game ends when the flying bee touches any spider, the spider lair, or hits the ground.
+- The goal of the game is to control the bee as it flies across the spiders and their lair to achieve a high score. The game ends when the flying bee touches any spider, the spider lair, or hits the ground.
 Elements of the game 
 ## Player:
 - The lazy bee serves as the player. Three pictures are used to animate the flying bee, and these images are my original creations.
@@ -18,8 +18,8 @@ Obstacles:
 - 	Background: An image of a cave sourced from online resources.
 
 ## How the elements moved
-The bee moves upward when the space key is pressed or when the left mouse button is clicked. Gravity is applied to the bee, so the player must fly against gravity while avoiding spiders.
-How the elements interact
+- The bee moves upward when the space key is pressed or when the left mouse button is clicked. Gravity is applied to the bee, so the player must fly against gravity while avoiding spiders.
+## How the elements interact
 - When the start button is pressed, the game begins, and all the spiders and the spider lair start moving toward the player. The game’s theme music begins to play, and the score starts at zero.
 - Each time the bee flies, the "operation" sound effect is played.
 - The score increases by one each time the bee passes through an obstacle, accompanied by the "gain_score" sound effect.
