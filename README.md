@@ -1,5 +1,7 @@
 [Game Demo Video](https://youtu.be/hDnoJq8jv1k)\
 Author: Yunyu Yang
+![capture_250210_214203](https://github.com/user-attachments/assets/cd9dba01-bd03-4656-b9f6-e70f89f830e8)
+
 ## The goals of the game 
 - The goal of the game is to control the bee as it flies across the spiders and their lair to achieve a high score. The game ends when the flying bee touches any spider, the spider lair, or hits the ground.
 Elements of the game 
